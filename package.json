@@ -1,0 +1,35 @@
+{
+  "name": "text-fx",
+  "version": "0.1.0",
+  "description": "text fx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ytamai/text-fx.git"
+  },
+  "keywords": [
+    "text",
+    "effect"
+  ],
+  "author": "ytamai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ytamai/text-fx/issues"
+  },
+  "homepage": "https://github.com/ytamai/text-fx",
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-cached": "^1.0.4",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.10.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sass": "^1.3.3",
+    "jshint-stylish": "^1.0.1",
+    "run-sequence": "^1.0.2"
+  }
+}
